@@ -8,5 +8,8 @@
 <body>
     <H1>test</H1>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus magnam voluptatum aut inventore harum eius ut nemo quod quas veniam maxime rem aperiam perferendis tempora consequatur consectetur odit, unde quia.</p>
+    <ul>
+        <li>test</li>
+    </ul>
 </body>
 </html>
